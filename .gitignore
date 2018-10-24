@@ -1,0 +1,11 @@
+*.pyc
+.idea
+env/
+.vscode/
+.pytest_cache/
+htmlcov/
+coverage.xml
+.coverage
+report.html
+assets/
+.envrc
