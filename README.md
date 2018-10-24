@@ -5,6 +5,7 @@
 - Python 2/3
 - RabbitMQ
 - Virtualenv
+- Docker (optional)
 - Code editor (Visual studio code, Notepad, Sublime)
 
 ## Setup
@@ -17,6 +18,12 @@
 
 ### How to run
 
+#### Directly
 ```shell
-./run.sh
+$ ./run.sh
+```
+
+#### Docker
+```shell
+$  make
 ```
