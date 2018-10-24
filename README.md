@@ -11,8 +11,9 @@
 
 1. Install basic requirements above
 2. Setup virtual enviroments `$ virtualenv env/`
-3. Install nameko  `$ pip install nameko`
-4. Write code/clone this repo
+3. Activate virtual env `$ source env/bin/activate`
+4. Install nameko  `$ pip install nameko`
+5. Write code/clone this repo
 
 ### How to run
 
